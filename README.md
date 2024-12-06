@@ -1,5 +1,12 @@
-# Usage
 
+## Install
+
+```
+https://github.com/DimensionDev/TextFieldWithKeyboard
+
+```
+
+## Usage
 ```
 @State private var text: String = ""
 @FocusState private var isActive: Bool
